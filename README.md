@@ -1,2 +1,1 @@
-# pm
-To renew PMP and get PMI-ACP certifications
+https://github.com/vochicong/progress/wiki
