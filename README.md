@@ -5,7 +5,7 @@
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai. Certificate earned on April 1, 2018
 
-## Renew PMP, get PMI-ACP
+## PMP, PMI-ACP
 
 ### Videos
 
@@ -21,13 +21,12 @@
     
 ## Tools
 
-- [Safari Books Online](https://www.safaribooksonline.com) provides a lot of technical and management books
 - [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts
 - [AnkiApp](https://www.ankiapp.com/) to create flashcards 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk4MjU2ODksMTA4NjM0OTY2MSw5MD
-QyMTk1ODZdfQ==
+eyJoaXN0b3J5IjpbMTk4NjgzMjU4OSwtMTMxOTgyNTY4OSwxMD
+g2MzQ5NjYxLDkwNDIxOTU4Nl19
 -->
