@@ -2,8 +2,8 @@
 
 ## Machine Learning
 
- - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
- - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai. Certificate earned on April 1, 2018
+ - [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
+ - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai. Certificate earned on April 1, 2018
 
 ## PMP, PMI-ACP
 
@@ -27,6 +27,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjgzMjU4OSwtMTMxOTgyNTY4OSwxMD
-g2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbMTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMz
+E5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
 -->
