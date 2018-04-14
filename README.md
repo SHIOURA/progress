@@ -23,8 +23,8 @@
 ## Machine Learning
 
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
- - [ ] List item
+ - [ ] Deep Learning Specialization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMzI0MDU1LDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbMTc1ODk3ODY2Nyw5MDQyMTk1ODZdfQ==
 -->
