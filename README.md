@@ -20,6 +20,9 @@
 - [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts
 - [AnkiApp](https://www.ankiapp.com/) to create flashcards 
 
+## Machine Learning
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbLTE1Mzc4MjA1OTksOTA0MjE5NTg2XX0=
 -->
