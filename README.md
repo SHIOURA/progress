@@ -1,5 +1,10 @@
 # My Progress Tracker
 
+## Machine Learning
+
+ - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
+ - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai. Certificate earned on April 1, 2018
+
 ## Renew PMP, get PMI-ACP
 
 ### Videos
@@ -20,10 +25,9 @@
 - [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts
 - [AnkiApp](https://www.ankiapp.com/) to create flashcards 
 
-## Machine Learning
 
- - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
- - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai. Certificate earned on April 1, 2018
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk4MjU2ODksMTA4NjM0OTY2MSw5MD
+QyMTk1ODZdfQ==
 -->
