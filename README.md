@@ -24,7 +24,7 @@
 
  - [ ] [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
  - [x] [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU)
-
+Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on April 1, 2018
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTA5MzIxNyw5MDQyMTk1ODZdfQ==
+eyJoaXN0b3J5IjpbNjk5OTIxMDY4LDkwNDIxOTU4Nl19
 -->
