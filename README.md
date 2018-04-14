@@ -23,8 +23,8 @@
 ## Machine Learning
 
  - [ ] [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
- - [ ] [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU)
+ - [x] [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMjg5ODUsOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbMTg3OTA5MzIxNyw5MDQyMTk1ODZdfQ==
 -->
