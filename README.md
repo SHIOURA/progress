@@ -9,10 +9,10 @@
 
 [AWS Certification](https://aws.amazon.com/certification/)
 - [ ] AWS Certified Solutions Architect - Associate
--  [ ] AWS Certified Developer - Associate
--  [ ] AWS Certified DevOps Engineer - Professional
+- [ ] AWS Certified Developer - Associate
+- [ ] AWS Certified DevOps Engineer - Professional
 - [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
--  [ ] AWS Certified Big Data - Specialty
+- [ ] AWS Certified Big Data - Specialty
 
 ## PMP, PMI-ACP
 
@@ -36,8 +36,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA1NTA3MzIsODUzMDA0NTIxLDE3ND
-g1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MTU4Mzkz
-NSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMT
-MxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMD
+A0NTIxLDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5
+LDM2MTU4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4Nj
+gzMjU4OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4
+Nl19
 -->
