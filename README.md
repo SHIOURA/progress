@@ -16,8 +16,8 @@
 
 1.  [*Head First Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/)
 2.  [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
-3.  [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml)
-4.  [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/)
+3.  [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) by PMI
+4.  [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) by PMI
     
 ## Tools
 
@@ -27,7 +27,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjczNzgwOSwzNjE1ODM5MzUsMTY4MT
+eyJoaXN0b3J5IjpbMTQ4NjAwMTc3NywzNjE1ODM5MzUsMTY4MT
 QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
 ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
 -->
