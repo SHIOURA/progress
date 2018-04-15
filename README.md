@@ -11,7 +11,13 @@
 
 ## DevOps, SRE
 
- - [ ] List item
+ - [ ] AWS Certified Solutions Architect - Associate
+    
+-   AWS Certified Developer - Associate
+    
+-   AWS Certified DevOps Engineer - Professional
+    
+-   AWS Certified Big Data - Specialty
 
 ## PMP, PMI-ACP
 
@@ -35,7 +41,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MT
-U4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4
-OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbMTAxMzQxMDU0MiwtMzIwNDU5NjIsLTE3Nz
+A0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2
+NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOT
+A0MjE5NTg2XX0=
 -->
