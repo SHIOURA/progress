@@ -3,7 +3,7 @@
 ## Machine Learning
 
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
- - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/)
+ - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: 
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai :star::star::star:
  - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :book: by François Chollet :star::star::star:
 
@@ -41,8 +41,8 @@
 
 1.  [*Head First Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
 2.  [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
-3.  [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) by PMI
-4.  [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) by PMI
+3.  [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) :book: by PMI
+4.  [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) :book: by PMI
     
 ## Tools
 
@@ -52,7 +52,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjczNDgzNzAsODMzNzI3ODg4LDE3MD
+eyJoaXN0b3J5IjpbLTE3NDc4MDQ3NjksODMzNzI3ODg4LDE3MD
 kyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2MDA0
 MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0OD
 UzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1
