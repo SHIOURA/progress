@@ -5,7 +5,7 @@
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/)
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai :star::star::star:
- - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :star::star::star:
+ - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  by François Chollet :star::star::star:
 
 ## Big Data
 
@@ -52,7 +52,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTE3NzI0NCw4MzM3Mjc4ODgsMTcwOT
+eyJoaXN0b3J5IjpbMTYxNjEyMTI2Myw4MzM3Mjc4ODgsMTcwOT
 IxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQx
 LDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NT
 MyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUs
