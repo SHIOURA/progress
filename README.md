@@ -17,7 +17,7 @@
 ### [AWS Developer Professional Series on edX](https://www.edx.org/aws-developer-professional-series)
 
  - [ ] Building on AWS: 
- - [ ] Deploying on AWS: CF, CodeBuild, Elasticsearch
+ - [ ] Deploying on AWS: CF, Build, Pipeline, Elasticsearch
  - [ ] Optimizing on AWS: ECS, ElastiCache, CloudTrail, KMS
 
 ## PMP, PMI-ACP
@@ -42,10 +42,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNDM3Njk1LDQzNzg3Njc2OCwxMzAyND
-MwNTQyLDE4MjMxNjAwNDEsODg5NDE0NDYsLTEzNTA1NTA3MzIs
-ODUzMDA0NTIxLDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwND
-A4NTA5LDM2MTU4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUs
-MTk4NjgzMjU4OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwND
-IxOTU4Nl19
+eyJoaXN0b3J5IjpbLTE0MjUxMDkyNTIsNDM3ODc2NzY4LDEzMD
+I0MzA1NDIsMTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDcz
+Miw4NTMwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3Nz
+A0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2
+NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOT
+A0MjE5NTg2XX0=
 -->
