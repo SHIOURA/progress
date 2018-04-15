@@ -5,15 +5,12 @@
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai
 
-## Big Data
+## AWS
 
- - [ ] [Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2) on AWS
-
-## DevOps, SRE
-
- - [ ] AWS Certified Solutions Architect - Associate
+- [ ] AWS Certified Solutions Architect - Associate
 -  [ ] AWS Certified Developer - Associate
 -  [ ] AWS Certified DevOps Engineer - Professional
+- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
 -  [ ] AWS Certified Big Data - Specialty
 
 ## PMP, PMI-ACP
@@ -38,8 +35,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3Nz
-A0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2
-NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOT
-A0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbODUzMDA0NTIxLDE3NDg1MzIzMzAsLTMyMD
+Q1OTYyLC0xNzcwNDA4NTA5LDM2MTU4MzkzNSwxNjgxNDE1MjM0
+LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMTMxOTgyNTY4OSwxMD
+g2MzQ5NjYxLDkwNDIxOTU4Nl19
 -->
