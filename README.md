@@ -5,6 +5,8 @@
  - [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
  - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai
 
+## DevOps
+
 ## PMP, PMI-ACP
 
 ### Videos
@@ -27,7 +29,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2OD
-E0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1
-Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbMTQ5NTgzNzE2LC0xNzcwNDA4NTA5LDM2MT
+U4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4
+OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
 -->
