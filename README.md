@@ -4,7 +4,7 @@
 
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
- - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by by Aurélien Géron
+ - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by Aurélien Géron
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU) :tv:, a 5-course specialization by deeplearning.ai :star::star::star:
  - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :book: by François Chollet :star::star::star:
 
@@ -29,13 +29,13 @@
 
 ## PMP, PMI-ACP
 
- - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154)
+ - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :star::star:
  - [ ] PMP renewal before Dec 2018
  - [ ] PMI-ACP
 
 ### Videos
 
--   [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) - 21 PDUs training course by Joseph Phillips on Udemy
+-   [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
 
 ### Reading
@@ -53,10 +53,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA1NTEwNTksODMzNzI3ODg4LDE3MD
-kyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2MDA0
-MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0OD
-UzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1
-LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMz
-E5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbMTU1ODgxODc2LDgzMzcyNzg4OCwxNzA5Mj
+EyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQyLDE4MjMxNjAwNDEs
+ODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMDA0NTIxLDE3NDg1Mz
+IzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MTU4MzkzNSwx
+NjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMTMxOT
+gyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
 -->
