@@ -3,7 +3,9 @@
 ## Machine Learning
 
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
+ - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/)
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai
+ - [x] Deep Learning with Python
 
 ## Big Data
 
@@ -50,10 +52,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNzI3ODg4LDE3MDkyMTI4NjUsNDM3OD
-c2NzY4LDEzMDI0MzA1NDIsMTgyMzE2MDA0MSw4ODk0MTQ0Niwt
-MTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwND
-U5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQs
-MTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwOD
-YzNDk2NjEsOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbLTYwNzE1MDY2NCw4MzM3Mjc4ODgsMTcwOT
+IxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQx
+LDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NT
+MyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUs
+MTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMT
+k4MjU2ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
 -->
