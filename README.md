@@ -15,9 +15,10 @@
 	- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
 
 ### [AWS Developer Professional Series on edX](https://www.edx.org/aws-developer-professional-series)
-Building on AWS
-Deploying on AWS
-Optimizing on AWS
+
+ - [ ] Building on AWS 
+ - [ ] Deploying on AWS 
+ - [ ] Optimizing on AWS: ECS, ElastiCache
 
 ## PMP, PMI-ACP
 
@@ -41,9 +42,9 @@ Optimizing on AWS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjQzMDU0MiwxODIzMTYwMDQxLDg4OT
-QxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMw
-LC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUsMTY4MT
-QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
-ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
+eyJoaXN0b3J5IjpbOTQ2MjQwNjY4LDEzMDI0MzA1NDIsMTgyMz
+E2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEs
+MTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNT
+gzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5
+LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
 -->
