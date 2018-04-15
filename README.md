@@ -7,12 +7,14 @@
 
 ## AWS
 
-[AWS Certification Roadmap](https://aws.amazon.com/certification/#roadmap)
+### [AWS Certification Roadmap](https://aws.amazon.com/certification/#roadmap)
 - [ ] AWS Certified Solutions Architect - Associate
 - [ ] AWS Certified Developer - Associate
 - [ ] AWS Certified DevOps Engineer - Professional
 - [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
 - [ ] AWS Certified Big Data - Specialty
+
+### AWS Developer Professional Series on
 
 ## PMP, PMI-ACP
 
@@ -36,9 +38,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MD
-U1MDczMiw4NTMwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIs
-LTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0OD
-A5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2
-NjEsOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbMTA4NzgzODQ5MywxODIzMTYwMDQxLDg4OT
+QxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMw
+LC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUsMTY4MT
+QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
+ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
 -->
