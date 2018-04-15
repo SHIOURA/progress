@@ -2,10 +2,10 @@
 
 ## Machine Learning
 
- - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
+ - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
  - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by by Aurélien Géron
- - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai :star::star::star:
+ - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU) :tv:, a 5-course specialization by deeplearning.ai :star::star::star:
  - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :book: by François Chollet :star::star::star:
 
 ## Big Data
@@ -36,7 +36,7 @@
 ### Videos
 
 -   [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) - 21 PDUs training course by Joseph Phillips on Udemy
-- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
+- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
 
 ### Reading
 
@@ -53,7 +53,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM1Njc4MzQsODMzNzI3ODg4LDE3MD
+eyJoaXN0b3J5IjpbLTEyMTA1NTEwNTksODMzNzI3ODg4LDE3MD
 kyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2MDA0
 MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0OD
 UzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1
