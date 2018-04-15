@@ -9,7 +9,7 @@
 
 ### Videos
 
--   [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) - 21 PDUs training course
+-   [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) - 21 PDUs training course by Joseph Phillips on Udemy
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 
 ### Reading
@@ -27,7 +27,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzM0MTEzLDM2MTU4MzkzNSwxNjgxND
-E1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMTMxOTgyNTY4
-OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbLTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2OD
+E0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1
+Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
 -->
