@@ -2,12 +2,12 @@
 
 ## Machine Learning
 
- - [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
- - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai
+ - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
+ - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai
 
 ## Big Data
 
- - [ ] [Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
+ - [ ] [Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2) on AWS
 
 ## DevOps, SRE
 
@@ -35,7 +35,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODYwMDgsLTE3NzA0MDg1MDksMzYxNT
-gzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5
-LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
+eyJoaXN0b3J5IjpbLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MT
+U4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4
+OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
 -->
