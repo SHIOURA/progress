@@ -7,7 +7,7 @@
 
 ## AWS
 
-[AWS Certification](https://aws.amazon.com/certification/)
+[AWS Certification Roadmap](https://aws.amazon.com/certification/#roadmap)
 - [ ] AWS Certified Solutions Architect - Associate
 - [ ] AWS Certified Developer - Associate
 - [ ] AWS Certified DevOps Engineer - Professional
@@ -36,9 +36,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMD
-A0NTIxLDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5
-LDM2MTU4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4Nj
-gzMjU4OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4
-Nl19
+eyJoaXN0b3J5IjpbMTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MD
+U1MDczMiw4NTMwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIs
+LTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0OD
+A5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2
+NjEsOTA0MjE5NTg2XX0=
 -->
