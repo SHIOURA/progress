@@ -11,10 +11,10 @@
 - [ ] AWS Certified Solutions Architect - Associate
 - [ ] AWS Certified Developer - Associate
 - [ ] AWS Certified DevOps Engineer - Professional
-- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
 - [ ] AWS Certified Big Data - Specialty
+	- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
 
-### AWS Developer Professional Series on
+### [AWS Developer Professional Series on edX](https://www.edx.org/aws-developer-professional-series)
 
 ## PMP, PMI-ACP
 
@@ -38,9 +38,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzgzODQ5MywxODIzMTYwMDQxLDg4OT
-QxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMw
-LC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUsMTY4MT
-QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
-ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQ4MDUwOTMsMTgyMzE2MDA0MSw4OD
+k0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0ODUzMjMz
+MCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2OD
+E0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1
+Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
 -->
