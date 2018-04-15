@@ -22,9 +22,9 @@
 
 ## PMP, PMI-ACP
 
- - [x] PMP certification [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154)
- - [ ] PMP renewal
- - [ ] 
+ - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154)
+ - [ ] PMP renewal before Dec 2018
+ - [ ] PMI-ACP
 
 ### Videos
 
@@ -46,7 +46,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjQxMTA2NSw0Mzc4NzY3NjgsMTMwMj
+eyJoaXN0b3J5IjpbMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMj
 QzMDU0MiwxODIzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMy
 LDg1MzAwNDUyMSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MD
 QwODUwOSwzNjE1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1
