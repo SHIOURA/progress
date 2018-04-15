@@ -15,8 +15,7 @@
 ### Reading
 
 1.  [Head First Agile](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/)
-2.  [PMI-ACP Exam Guidance] providing PMI-ACP Handbook and PMI-ACP Exam Content Outline, [private](https://web.kamihq.com/web/viewer.html?source=extension_pdfhandler&file=https%3A%2F%2Fwww.pmi.org%2F-%2Fmedia%2Fpmi%2Fdocuments%2Fpublic%2Fpdf%2Fcertifications%2Fagile-certified-practitioner-handbook.pdf)    
-5. [PMI-ACP Examination  Content  Outline]()
+2.  [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) including 2 books *PMI-ACP Handbook* and *PMI-ACP Exam Content Outline*   
 3.  [PMBOK Guide](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml)
 4.  [Agile Practice Guide](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/)
     
@@ -28,7 +27,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MzU4MDg1LDM2MTU4MzkzNSwxNjgxND
-E1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMTMxOTgyNTY4
-OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbMjAwMDUyNjc3NiwzNjE1ODM5MzUsMTY4MT
+QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
+ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
 -->
