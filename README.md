@@ -7,9 +7,9 @@
 
 ## Big Data
 
-- [ ] [Learn SQL and BigQuery](https://www.kaggle.com/learn/sql) on Kaggle, using Python
 - [ ] AWS Certified Big Data - Specialty
-	- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
+- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
+- [ ] [Learn SQL and BigQuery](https://www.kaggle.com/learn/sql) on Kaggle, using Python
 
 ## AWS
 
@@ -50,10 +50,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzQ5MjI5OCwxNzA5MjEyODY1LDQzNz
-g3Njc2OCwxMzAyNDMwNTQyLDE4MjMxNjAwNDEsODg5NDE0NDYs
-LTEzNTA1NTA3MzIsODUzMDA0NTIxLDE3NDg1MzIzMzAsLTMyMD
-Q1OTYyLC0xNzcwNDA4NTA5LDM2MTU4MzkzNSwxNjgxNDE1MjM0
-LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMTMxOTgyNTY4OSwxMD
-g2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbODMzNzI3ODg4LDE3MDkyMTI4NjUsNDM3OD
+c2NzY4LDEzMDI0MzA1NDIsMTgyMzE2MDA0MSw4ODk0MTQ0Niwt
+MTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwND
+U5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQs
+MTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwOD
+YzNDk2NjEsOTA0MjE5NTg2XX0=
 -->
