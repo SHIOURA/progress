@@ -47,13 +47,13 @@
     
 ## Tools
 
-- [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts
-- [AnkiApp](https://www.ankiapp.com/) to create flashcards 
+- [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts :star::star::star:
+- [AnkiApp](https://www.ankiapp.com/) to create flashcards :star::star:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODgxODc2LDgzMzcyNzg4OCwxNzA5Mj
+eyJoaXN0b3J5IjpbNzc3NTY4OTk0LDgzMzcyNzg4OCwxNzA5Mj
 EyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQyLDE4MjMxNjAwNDEs
 ODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMDA0NTIxLDE3NDg1Mz
 IzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MTU4MzkzNSwx
