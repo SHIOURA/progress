@@ -5,7 +5,7 @@
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)  Specialization
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/)
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU), a 5-course specialization by deeplearning.ai :star::star::star:
- - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  by François Chollet :star::star::star:
+ - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :book: by François Chollet :star::star::star:
 
 ## Big Data
 
@@ -39,8 +39,8 @@
 
 ### Reading
 
-1.  [*Head First Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) by Jennifer Greene; Andrew Stellman
-2.  [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
+1.  [*Head First Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
+2.  [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
 3.  [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) by PMI
 4.  [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) by PMI
     
@@ -52,10 +52,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjEyMTI2Myw4MzM3Mjc4ODgsMTcwOT
-IxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQx
-LDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NT
-MyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUs
-MTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMT
-k4MjU2ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjczNDgzNzAsODMzNzI3ODg4LDE3MD
+kyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2MDA0
+MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMTc0OD
+UzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgzOTM1
+LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2ODMyNTg5LC0xMz
+E5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2XX0=
 -->
