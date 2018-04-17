@@ -32,14 +32,9 @@
  - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :star::star:
  - [ ] PMP renewal before Dec 2018
  - [ ] PMI-ACP
-
-### Videos
-
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
-
-### Reading
-
+ - [ ] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/)by Jennifer Greene; Andrew StellmanPublished by  [O'Reilly Media, Inc.](https://www.safaribooksonline.com/library/publisher/oreilly-media-inc/), 2018
  - [ ] [*Head First  Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
  - [ ] [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
  - [ ] [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) :book: by PMI
@@ -54,11 +49,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NTM0ODEwLDc3NzU2ODk5NCw4MzM3Mj
-c4ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0Miwx
-ODIzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwND
-UyMSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwz
-NjE1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4Mz
-I1ODksLTEzMTk4MjU2ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZd
-fQ==
+eyJoaXN0b3J5IjpbMjEzOTA5MTUzOCw3Nzc1Njg5OTQsODMzNz
+I3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIs
+MTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMD
+Q1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDks
+MzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2OD
+MyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2
+XX0=
 -->
