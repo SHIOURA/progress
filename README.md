@@ -32,7 +32,6 @@
  - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :star::star:
  - [ ] PMI-ACP
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
-- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
  - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman
  - [ ] [*Head First  Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
  - [ ] [Succeeding with Agile](https://www.safaribooksonline.com/library/view/succeeding-with-agile/9780321660534/) :book: by Mike Cohn
@@ -41,15 +40,16 @@
  - [ ] [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) :book: by PMI
 
     
-## Tools
+## Tools & Links
 
 - [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts :star::star::star:
 - [AnkiApp](https://www.ankiapp.com/) to create flashcards :star::star:
+- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv: :star:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzkyNTE1Miw3Nzc1Njg5OTQsODMzNz
+eyJoaXN0b3J5IjpbMTYzNDIwNzQxNyw3Nzc1Njg5OTQsODMzNz
 I3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIs
 MTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMD
 Q1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDks
