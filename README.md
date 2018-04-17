@@ -35,6 +35,7 @@
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
  - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman
  - [ ] [*Head First  Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
+ - [ ] [Succeeding with Agile](https://www.safaribooksonline.com/library/view/succeeding-with-agile/9780321660534/) :book: by Mike Cohn
  - [ ] [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
  - [ ] [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) :book: by PMI
  - [ ] [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) :book: by PMI
@@ -48,11 +49,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2OTU4NDksNzc3NTY4OTk0LDgzMz
-cyNzg4OCwxNzA5MjEyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQy
-LDE4MjMxNjAwNDEsODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMD
-A0NTIxLDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5
-LDM2MTU4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4Nj
-gzMjU4OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4
-Nl19
+eyJoaXN0b3J5IjpbMTMzNzkyNTE1Miw3Nzc1Njg5OTQsODMzNz
+I3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIs
+MTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMD
+Q1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDks
+MzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2OD
+MyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2
+XX0=
 -->
