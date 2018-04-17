@@ -35,7 +35,7 @@
 
 ### Videos
 
--   [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
+ - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
 
 ### Reading
@@ -54,11 +54,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEyMjQyODAsNzc3NTY4OTk0LDgzMz
-cyNzg4OCwxNzA5MjEyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQy
-LDE4MjMxNjAwNDEsODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMD
-A0NTIxLDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5
-LDM2MTU4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4Nj
-gzMjU4OSwtMTMxOTgyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4
-Nl19
+eyJoaXN0b3J5IjpbNzI3NTM0ODEwLDc3NzU2ODk5NCw4MzM3Mj
+c4ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0Miwx
+ODIzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwND
+UyMSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwz
+NjE1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4Mz
+I1ODksLTEzMTk4MjU2ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZd
+fQ==
 -->
