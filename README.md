@@ -30,7 +30,6 @@
 ## PMP, PMI-ACP
 
  - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :star::star:
- - [ ] PMP renewal before Dec 2018
  - [ ] PMI-ACP
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv:
@@ -49,11 +48,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTA5MTUzOCw3Nzc1Njg5OTQsODMzNz
-I3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIs
-MTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMD
-Q1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDks
-MzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2OD
-MyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2
-XX0=
+eyJoaXN0b3J5IjpbODk3OTQ4MzAwLDc3NzU2ODk5NCw4MzM3Mj
+c4ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0Miwx
+ODIzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwND
+UyMSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwz
+NjE1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4Mz
+I1ODksLTEzMTk4MjU2ODksMTA4NjM0OTY2MSw5MDQyMTk1ODZd
+fQ==
 -->
