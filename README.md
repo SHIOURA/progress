@@ -40,10 +40,17 @@
 
 ### Reading
 
-1.  [*Head First Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
-2.  [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
-3.  [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) :book: by PMI
-4.  [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) :book: by PMI
+ - [ ] [*Head First
+       Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/)
+       :book: by Jennifer Greene; Andrew Stellman
+ - [x] [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep)
+       :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content
+       Outline* and *PMI-ACP Presentation*
+ - [ ] [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml)
+       :book: by PMI
+ - [ ] [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/)
+       :book: by PMI
+
     
 ## Tools
 
@@ -53,10 +60,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTY4OTk0LDgzMzcyNzg4OCwxNzA5Mj
-EyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQyLDE4MjMxNjAwNDEs
-ODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMDA0NTIxLDE3NDg1Mz
-IzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MTU4MzkzNSwx
-NjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4OSwtMTMxOT
-gyNTY4OSwxMDg2MzQ5NjYxLDkwNDIxOTU4Nl19
+eyJoaXN0b3J5IjpbMTA4MTg4MTYwNiw3Nzc1Njg5OTQsODMzNz
+I3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIs
+MTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMD
+Q1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDks
+MzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0ODA5Nzc2NSwxOTg2OD
+MyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2NjEsOTA0MjE5NTg2
+XX0=
 -->
