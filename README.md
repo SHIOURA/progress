@@ -2,7 +2,7 @@
 
 ## Machine Learning
 
- - [ ] [GOOGLE CLOUD CERTIFIED Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
+ - [ ] [Google Cloud Certified Professional Data Engineer](https://cloud.google.com/certification/data-engineer) :ticket:
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
  - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by Aurélien Géron
@@ -11,16 +11,16 @@
 
 ## Big Data
 
-- [ ] AWS Certified Big Data - Specialty
-- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)
+- [ ] AWS Certified Big Data - Specialty  :ticket: 
+- [ ] [AWS Big Data Technology Fundamentals](https://www.aws.training/transcript/curriculumplayer?transcriptId=tFJXk7lv8k6Bh3oyLkiuTA2)  :ticket:
 - [ ] [Learn SQL and BigQuery](https://www.kaggle.com/learn/sql) on Kaggle, using Python
 
 ## AWS
 
 ### [AWS Certification Roadmap](https://aws.amazon.com/certification/#roadmap)
-- [ ] AWS Certified Solutions Architect - Associate
-- [ ] AWS Certified DevOps Engineer - Professional
-	- [ ] AWS Certified Developer - Associate
+- [ ] AWS Certified Solutions Architect - Associate :ticket:
+- [ ] AWS Certified DevOps Engineer - Professional :ticket:
+	- [ ] AWS Certified Developer - Associate :ticket:
 
 ### [AWS Developer Professional Series on edX](https://www.edx.org/aws-developer-professional-series)
 
@@ -50,11 +50,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI2NTQ5MDYsMTU3MzU5Mjg5Myw3Nz
-c1Njg5OTQsODMzNzI3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4
-LDEzMDI0MzA1NDIsMTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MD
-U1MDczMiw4NTMwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIs
-LTE3NzA0MDg1MDksMzYxNTgzOTM1LDE2ODE0MTUyMzQsMTY0OD
-A5Nzc2NSwxOTg2ODMyNTg5LC0xMzE5ODI1Njg5LDEwODYzNDk2
-NjFdfQ==
+eyJoaXN0b3J5IjpbMTI2Nzg4MTY1MCwtMTA1MjY1NDkwNiwxNT
+czNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4ODgsMTcwOTIxMjg2
+NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQxLDg4OT
+QxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMw
+LC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUsMTY4MT
+QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
+ODldfQ==
 -->
