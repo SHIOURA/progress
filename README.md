@@ -30,8 +30,8 @@
 
 ## PM
 
- - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :star::star:
- - [ ] PMI-ACP
+ - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :ticket: :star::star:
+ - [ ] PMI-ACP :ticket:
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
  - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman :star::star::star:
  - [ ] [*Head First  Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
@@ -50,7 +50,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Nzg4MTY1MCwtMTA1MjY1NDkwNiwxNT
+eyJoaXN0b3J5IjpbMTkyMTI3MTE3OCwtMTA1MjY1NDkwNiwxNT
 czNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4ODgsMTcwOTIxMjg2
 NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQxLDg4OT
 QxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMw
