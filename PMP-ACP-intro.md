@@ -29,7 +29,10 @@ PMI会員にはここでは言及していないいくつか特典がありま�
 
 ## トレーニング受講費
 
-TODO
+|コース|単位数（PDU） | 受講費
+|--|--|--
+| PMI-ACP Exam Prep for PMBOK 6|  |
+
 
 # 勉強の進め方
 ## ZenHubの活用
@@ -44,5 +47,5 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3OTQ4NjAyXX0=
+eyJoaXN0b3J5IjpbODA3ODIwNDg3LDYzNzk0ODYwMl19
 -->
