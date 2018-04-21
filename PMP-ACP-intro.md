@@ -56,8 +56,8 @@ TODO
 - [PMI® 試験・資格について](https://www.pmi-japan.org/pmp_license/)
 - [PMI-ACP® 認定試験のご案内](https://www.pmi-japan.org/pmp_license/pmisupregsup/pmi-acp.php)
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
-
+- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAxMTA3Myw0NDI3NzcxMTEsLTU0MT
-g4OTYzOCw2Mzc5NDg2MDJdfQ==
+eyJoaXN0b3J5IjpbNTcwMzE2NDIwLDQ0Mjc3NzExMSwtNTQxOD
+g5NjM4LDYzNzk0ODYwMl19
 -->
