@@ -29,6 +29,9 @@ PMI会員にはここでは言及していないいくつか特典がありま�
 
 ## トレーニング受講費
 
+英語のコースはリーズナブルです。
+日本語のコースは数十万円もするので、
+
 |コース| 言語 | 単位数（PDU） | 受講費
 |--|--|--|--
 | [PMI-ACP Exam Prep for PMBOK 6](https://www.udemy.com/pmiacp_21pdus/learn/v4/overview) by Joseph Phillips on Udemy | 英語 | 21 | ¥1,800
@@ -48,6 +51,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NjM1OTcsLTU0MTg4OTYzOCw2Mzc5ND
-g2MDJdfQ==
+eyJoaXN0b3J5IjpbLTQ5NjgyNTMwOCwtNTQxODg5NjM4LDYzNz
+k0ODYwMl19
 -->
