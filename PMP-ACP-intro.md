@@ -55,8 +55,8 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 2015年にPMPを取得するために1年間勉強しました。今回はPMP更新とACP取得のためにアジャイルの手法を用いて、効率的に勉強を進めています。
 
 - 受講コースのビデオ・クイズ・課題を[GitHubチケット](https://github.com/vochicong/progress/issues)として登録
-- マイルストーンを毎週の日曜日に設定し、バーンダウンチャートで進捗を可視化
-	- 着手前にチケットを1時間以内で終わらせるくらいの大きさにし、日々少しずつ消化（バーンダウン）
+- マイルストーンを毎週の日曜日に設定し、[バーンダウンチャート](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown&milestoneId=3257374)で進捗を可視化
+	- 着手前にチケットを1時間以内で終わらせるくらいの大きさにし、日々少しずつ[消化（バーンダウン）](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown&milestoneId=3257374)
 - 週ごとのベロシティを図り、勉強の速度を把握する
 - 受験予定日をリリース希望日に設定し、リリースまでの道のりを可視化。実測のベロシティに応じてリリース可能日も算出されるので、リリース希望日と比較できる。
 
@@ -67,7 +67,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzMwOTY3Niw5MDc3OTcwNTcsLTEyND
-Y1NjM3MTgsNDQyNzc3MTExLC01NDE4ODk2MzgsNjM3OTQ4NjAy
-XX0=
+eyJoaXN0b3J5IjpbNTc1NDAxOTIwLDIwNTMzMDk2NzYsOTA3Nz
+k3MDU3LC0xMjQ2NTYzNzE4LDQ0Mjc3NzExMSwtNTQxODg5NjM4
+LDYzNzk0ODYwMl19
 -->
