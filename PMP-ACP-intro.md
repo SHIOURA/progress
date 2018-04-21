@@ -58,7 +58,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - マイルストーンを毎週の日曜日に設定し、[ZenHub バーンダウンチャート](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown&milestoneId=3257374)で進捗を可視化
 	- 着手前にチケットを1時間以内で終わらせるくらいの大きさにし、日々少しずつ[消化（バーンダウン）](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown&milestoneId=3257374)
 - 週ごとの[ベロシティをZenHubで](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=velocity)可視化し、勉強の速度を把握する
-- 受験予定日をリリース希望日に設定し、[受験・リリースまでの道のり](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=release&release=5ad2b36e2185b94f60c38bc3)を可視化。実測のベロシティに応じてリリース可能日も算出されるので、リリース希望日と比較し、げできる。
+- 受験予定日をリリース希望日に設定し、[受験・リリースまでの道のり](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=release&release=5ad2b36e2185b94f60c38bc3)を可視化。実測のベロシティに応じてリリース可能日も算出されるので、リリース希望日と比較できる。
 
  ## リンク
 
@@ -67,7 +67,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzcyNTA3OCwyMDUzMzA5Njc2LDkwNz
+eyJoaXN0b3J5IjpbMTgxNDc2NTY0NiwyMDUzMzA5Njc2LDkwNz
 c5NzA1NywtMTI0NjU2MzcxOCw0NDI3NzcxMTEsLTU0MTg4OTYz
 OCw2Mzc5NDg2MDJdfQ==
 -->
