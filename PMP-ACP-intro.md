@@ -58,7 +58,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - マイルストーンを毎週の日曜日に設定し、バーンダウンチャートで進捗を可視化
 	- 着手前にチケットを1時間以内で終わらせるくらいの大きさにし、日々少しずつ消化（バーンダウン）
 - 週ごとのベロシティを図り、勉強の速度を把握する
-- 受験日をリリース日に設定し、リリースまでの道のりを可視化。ベロシティに応じて実際にリリースできるだ
+- 受験日をリリース日に設定し、リリースまでの道のりを可視化。実測のベロシティに応じてリリース可能予定日も算出されるので、できるだ
 
  ## リンク
 
@@ -67,7 +67,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUwMzM5LDkwNzc5NzA1NywtMTI0Nj
-U2MzcxOCw0NDI3NzcxMTEsLTU0MTg4OTYzOCw2Mzc5NDg2MDJd
-fQ==
+eyJoaXN0b3J5IjpbLTE2NjY0MjU3MjksOTA3Nzk3MDU3LC0xMj
+Q2NTYzNzE4LDQ0Mjc3NzExMSwtNTQxODg5NjM4LDYzNzk0ODYw
+Ml19
 -->
