@@ -29,8 +29,7 @@ PMI会員にはここでは言及していないいくつか特典がありま�
 
 ## トレーニング受講費
 
-英語のコースはリーズナブルです。
-日本語のコースは数十万円もするので、
+英語のコースは概ねリーズナブルです。日本語のコース検索すれば出てきますが、大体数十万円します。
 
 |コース| 言語 | 単位数（PDU） | 受講費
 |--|--|--|--
@@ -51,6 +50,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjgyNTMwOCwtNTQxODg5NjM4LDYzNz
+eyJoaXN0b3J5IjpbMTg2MTIzMTA2OCwtNTQxODg5NjM4LDYzNz
 k0ODYwMl19
 -->
