@@ -31,9 +31,9 @@ PMI会員にはここでは言及していないいくつか特典がありま�
 
 ### トレーニング受講費
 
-PMPもACPも受験の条件に公認コースの受講が求められています。私が受講したのは次の２コースです。
+PMPもACPも受験の条件に公認コースを受講し必要な単位数(PDU, が求められています。私が受講したのは次の２コースです。
 
-|コース | 単位数（PDU） | 受講費
+|コース | PDU | 受講費
 |--|--|--
 | [PMI-ACP Exam Prep for PMBOK 6](https://www.udemy.com/pmiacp_21pdus/learn/v4/overview) <br> by Joseph Phillips on Udemy | 21 | ¥1,800
 | [Project Management for Business Professionals](https://www.canvas.net/courses/project-management-for-business-professionals-4) <br>by Peter von Stackelberg on Canvas | 45 | $99 
@@ -61,6 +61,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1NjM3MTgsNDQyNzc3MTExLC01ND
-E4ODk2MzgsNjM3OTQ4NjAyXX0=
+eyJoaXN0b3J5IjpbMTEyNDcyNzIzNywtMTI0NjU2MzcxOCw0ND
+I3NzcxMTEsLTU0MTg4OTYzOCw2Mzc5NDg2MDJdfQ==
 -->
