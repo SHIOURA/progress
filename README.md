@@ -30,10 +30,10 @@
 
 ## PM
 
- - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154) :ticket: :star::star:
+ - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154), [badge](https://www.youracclaim.com/badges/dbebbbb6-c323-4f92-884a-1af0b55f87ad/public_url) :ticket: :star::star::star::star:
  - [ ] PMI-ACP :ticket:
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
- - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman :star::star::star:
+ - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman :star::star::star::star::star:
  - [ ] [*Head First  Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
  - [ ] [Succeeding with Agile](https://www.safaribooksonline.com/library/view/succeeding-with-agile/9780321660534/) :book: by Mike Cohn
  - [ ] [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
@@ -43,18 +43,18 @@
     
 ## Tools & Links
 
-- [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts :star::star::star:
-- [AnkiApp](https://www.ankiapp.com/) to create flashcards :star::star:
-- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv: :star:
+- [ZenHub](https://app.zenhub.com/workspace/o/vochicong/progress/reports?report=burndown) to create milestones and burn down charts :star::star::star::star::star:
+- [AnkiApp](https://www.ankiapp.com/) to create flashcards :star::star::star::star:
+- [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm) :tv: :star::star::star:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTI3MTE3OCwtMTA1MjY1NDkwNiwxNT
-czNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4ODgsMTcwOTIxMjg2
-NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQxLDg4OT
-QxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMw
-LC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNjE1ODM5MzUsMTY4MT
-QxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1ODksLTEzMTk4MjU2
+eyJoaXN0b3J5IjpbLTExNzYxNDcyMzIsMTkyMTI3MTE3OCwtMT
+A1MjY1NDkwNiwxNTczNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4
+ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxOD
+IzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUy
+MSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNj
+E1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1
 ODldfQ==
 -->
