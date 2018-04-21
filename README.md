@@ -30,7 +30,7 @@
 
 ## PM
 
- - [x] PMP Certified [1886573](https://webreports.pmi.org/certification/certificate/3302554/1963154), [badge](https://www.youracclaim.com/badges/dbebbbb6-c323-4f92-884a-1af0b55f87ad/public_url) :ticket: :star::star::star::star:
+ - [x] PMP Certified [1886573](https://www.youracclaim.com/badges/dbebbbb6-c323-4f92-884a-1af0b55f87ad/public_url) :ticket: :star::star::star::star:
  - [ ] PMI-ACP :ticket:
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
  - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman :star::star::star::star::star:
@@ -50,11 +50,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTA3MTUyMCwxOTIxMjcxMTc4LC0xMD
-UyNjU0OTA2LDE1NzM1OTI4OTMsNzc3NTY4OTk0LDgzMzcyNzg4
-OCwxNzA5MjEyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQyLDE4Mj
-MxNjAwNDEsODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMDA0NTIx
-LDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MT
-U4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4
-OV19
+eyJoaXN0b3J5IjpbLTE5MTgyNzI3NjIsMTkyMTI3MTE3OCwtMT
+A1MjY1NDkwNiwxNTczNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4
+ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxOD
+IzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUy
+MSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNj
+E1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1
+ODldfQ==
 -->
