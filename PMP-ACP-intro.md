@@ -40,6 +40,10 @@ PMPもACPも受験の条件に公認コースの受講が求められていま�
 
 英語のコースは概ねリーズナブルです。日本語のコースは大体数十万円します。
 
+ ## 条件
+
+PMPをもっていたら、ACPの受験に必要な職務経験に関する条件をみたすことに
+ 
 ## ZenHubでバーンダウン
 
 TODO
@@ -51,6 +55,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNzc3MTExLC01NDE4ODk2MzgsNjM3OT
-Q4NjAyXX0=
+eyJoaXN0b3J5IjpbLTEzOTMzNTIwMjAsNDQyNzc3MTExLC01ND
+E4ODk2MzgsNjM3OTQ4NjAyXX0=
 -->
