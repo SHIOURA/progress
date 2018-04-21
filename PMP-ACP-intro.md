@@ -57,7 +57,8 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - 受講コースのビデオ・クイズ・課題を[GitHubチケット](https://github.com/vochicong/progress/issues)として登録
 - マイルストーンを毎週の日曜日に設定し、バーンダウンチャートで進捗を可視化
 	- 着手前にチケットを1時間以内で終わらせるくらいの大きさにし、日々少しずつ消化（バーンダウン）
-- 週ごとのべろし
+- 週ごとのベロシティを図り、勉強の速度を把握する
+- 受験日をリリース日に設定し、りりーす計画
 
  ## リンク
 
@@ -66,7 +67,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjI3MTYxMCw5MDc3OTcwNTcsLTEyND
-Y1NjM3MTgsNDQyNzc3MTExLC01NDE4ODk2MzgsNjM3OTQ4NjAy
-XX0=
+eyJoaXN0b3J5IjpbMzY4ODgxODcsOTA3Nzk3MDU3LC0xMjQ2NT
+YzNzE4LDQ0Mjc3NzExMSwtNTQxODg5NjM4LDYzNzk0ODYwMl19
+
 -->
