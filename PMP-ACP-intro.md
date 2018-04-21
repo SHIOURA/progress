@@ -2,7 +2,8 @@
 
 今回PMP資格を更新するついでに、ACPも取得することにしました。ACPの取得でトレーニングコースを受講しますが、その受講レコードがPMPの更新要件の一部を満たすので一石二鳥です。また、アジャイル開発の方法論を一回きちんと勉強したかったためです。
 
- ## PMPとACP資格の概要
+## PMPとACP資格の概要
+
 プロジェクトマネージメントの国際資格としてPMI-PMPとPMI-ACPは定評があります。**官公庁入札案件**においては、**PMP保持が必須**条件とされます。海外では**ACP保持がアジャイル開発進行役（PM, SM）の必須スキル**とされ、日本でもこれから普及するでしょう。
 
 日本では独特な商習慣もあり、現場ごとにもプロジェクトマネージメント手法が多様にカスタマイズされます。国際資格の取得によって、国際標準のきちんとしたプロジェクトマネージメント理論を勉強するきっかけを得て、現場で適材適所に判断材料としたり、応用したりできることも少なくありません。**なんちゃってアジャイル、なんちゃってスクラム、なんちゃってPM**に気づけるようになります。
@@ -17,6 +18,7 @@ PMI-ACP資格は、認定スクラムマスター資格と比べると
 ## 費用
 
 ### 受験費・資格更新費
+
 PMIの会員かどうかで費用が変わります。
 
 | 費用 | PMI会員 | 一般
@@ -67,7 +69,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDc2NTY0NiwyMDUzMzA5Njc2LDkwNz
+eyJoaXN0b3J5IjpbMTUzMTA5ODE3MCwyMDUzMzA5Njc2LDkwNz
 c5NzA1NywtMTI0NjU2MzcxOCw0NDI3NzcxMTEsLTU0MTg4OTYz
 OCw2Mzc5NDg2MDJdfQ==
 -->
