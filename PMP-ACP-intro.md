@@ -31,7 +31,7 @@ PMI会員にはここでは言及していないいくつか特典がありま�
 
 |コース| 言語 | 単位数（PDU） | 受講費
 |--|--|--|--
-| PMI-ACP Exam Prep for PMBOK 6 by Joseph Phillips on Udemy | 英語 | 21 | 
+| PMI-ACP Exam Prep for PMBOK 6 by Joseph Phillips on Udemy | 英語 | 21 | ¥1,800
 
 
 # 勉強の進め方
@@ -47,5 +47,5 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzU3NDQwNSw2Mzc5NDg2MDJdfQ==
+eyJoaXN0b3J5IjpbOTU5Nzk1NTg3LDYzNzk0ODYwMl19
 -->
