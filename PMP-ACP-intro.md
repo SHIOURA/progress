@@ -52,7 +52,7 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
  
 ## 工夫：ZenHubでバーンダウン
 
-2015年にPMPを取得するために1年間勉強しました。
+2015年にPMPを取得するために1年間勉強しました。今回はアジャイルに勉強の進捗を
 
  ## リンク
 
@@ -61,6 +61,6 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg5MTM5NTIsLTEyNDY1NjM3MTgsND
+eyJoaXN0b3J5IjpbLTEzODU3MjE0MDcsLTEyNDY1NjM3MTgsND
 QyNzc3MTExLC01NDE4ODk2MzgsNjM3OTQ4NjAyXX0=
 -->
