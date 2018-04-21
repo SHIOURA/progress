@@ -45,7 +45,7 @@ PMPもACPも受験の条件に公認コースの受講が求められていま�
 - PMPをもっていたら、ACP受験に必要な職務経験に関する条件を満たせます。
 - PMPの更新には3年サイクルで60 PDU (CCR)の獲得が必要です。
 - ACPの受験に必要なトレーニングコースの21PDUは、PMP更新に必要なPDUとしてもカウントされます。ここが始めに書いた「一石二鳥」の理由です。
-- PMPの更新に必要な残りの 60 - 21 = 39 の取得方法は複数あります。私は主にPM方法論に関するビデオ視聴や読書
+- PMPの更新に必要な残りの 60 - 21 = 39 PDUの取得方法は複数あります。私は主にPM方法論に関するビデオ視聴や読書、つまり独学で取得しています。
  
 ## ZenHubでバーンダウン
 
@@ -58,6 +58,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0Njk2MDE3LDQ0Mjc3NzExMSwtNTQxOD
-g5NjM4LDYzNzk0ODYwMl19
+eyJoaXN0b3J5IjpbLTIxMzAxMTA3Myw0NDI3NzcxMTEsLTU0MT
+g4OTYzOCw2Mzc5NDg2MDJdfQ==
 -->
