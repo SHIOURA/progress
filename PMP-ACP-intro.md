@@ -55,7 +55,8 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 2015年にPMPを取得するために1年間勉強しました。今回はPMP更新とACP取得のためにアジャイルの手法を用いて、効率的に勉強を進めています。
 
 - 受講コースのビデオ・クイズ・課題を[GitHubチケット](https://github.com/vochicong/progress/issues)として登録
-- 次の週（スプリント）で着手するチケットは1時間以内で終わらせるくらいの大きさに
+- 次の週（スプリント）で着手するチケットは1時間以内で終わらせるくらいの大きさにし、日々少しずつ消化していく
+- 
 
  ## リンク
 
@@ -64,6 +65,6 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMjE1OTYyLC0xMjQ2NTYzNzE4LDQ0Mj
+eyJoaXN0b3J5IjpbOTA3Nzk3MDU3LC0xMjQ2NTYzNzE4LDQ0Mj
 c3NzExMSwtNTQxODg5NjM4LDYzNzk0ODYwMl19
 -->
