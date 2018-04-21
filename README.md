@@ -6,8 +6,8 @@
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
  - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by Aurélien Géron
- - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU) :tv:, a 5-course specialization by deeplearning.ai :star::star::star:
- - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :book: by François Chollet :star::star::star:
+ - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU) :tv:, a 5-course specialization by deeplearning.ai :star::star::star::star:
+ - [x] [Deep Learning with Python](https://www.safaribooksonline.com/library/view/deep-learning-with/9781617294433/)  :book: by François Chollet :star::star::star::star:
 
 ## Big Data
 
@@ -50,11 +50,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYxNDcyMzIsMTkyMTI3MTE3OCwtMT
-A1MjY1NDkwNiwxNTczNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4
-ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxOD
-IzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUy
-MSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNj
-E1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1
-ODldfQ==
+eyJoaXN0b3J5IjpbLTc0MTA3MTUyMCwxOTIxMjcxMTc4LC0xMD
+UyNjU0OTA2LDE1NzM1OTI4OTMsNzc3NTY4OTk0LDgzMzcyNzg4
+OCwxNzA5MjEyODY1LDQzNzg3Njc2OCwxMzAyNDMwNTQyLDE4Mj
+MxNjAwNDEsODg5NDE0NDYsLTEzNTA1NTA3MzIsODUzMDA0NTIx
+LDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MT
+U4MzkzNSwxNjgxNDE1MjM0LDE2NDgwOTc3NjUsMTk4NjgzMjU4
+OV19
 -->
