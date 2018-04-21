@@ -1,4 +1,4 @@
-# PMP更新と ACP取得の費用や工夫
+# PMP更新と ACP取得の費用や工夫メモ
 
 今回PMP資格を更新するついでに、ACPも取得することにしました。ACPの取得でトレーニングコースを受講しますが、その受講レコードがPMPの更新要件の一部を満たすので一石二鳥です。また、アジャイル開発の方法論を一回きちんと勉強したかったためです。
 
@@ -40,19 +40,17 @@ PMPもACPも受験の条件に公認コースの受講が求められていま�
 
 英語のコースは概ねリーズナブルです。日本語のコースは大体数十万円します。
 
-# 勉強の進め方
-## ZenHubの活用
-### バーンダウンチャート
+## ZenHubでバーンダウン
 
 TODO
 
-# リンク
+ ## リンク
 
 - [PMI® 試験・資格について](https://www.pmi-japan.org/pmp_license/)
 - [PMI-ACP® 認定試験のご案内](https://www.pmi-japan.org/pmp_license/pmisupregsup/pmi-acp.php)
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU3NjY3MDUsLTU0MTg4OTYzOCw2Mz
-c5NDg2MDJdfQ==
+eyJoaXN0b3J5IjpbNDQyNzc3MTExLC01NDE4ODk2MzgsNjM3OT
+Q4NjAyXX0=
 -->
