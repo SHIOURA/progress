@@ -14,9 +14,9 @@ PMI-ACP資格は、認定スクラムマスター資格と比べると
 - スクラムに特化しておらず、**ナチュラル**
     - XP、Kanban、Leanなど幅広い知識を試される
 
-# 費用
+## 費用
 
-## 受験費・資格更新費
+### 受験費・資格更新費
 PMIの会員かどうかで費用が変わります。
 
 | 費用 | PMI会員 | 一般
@@ -29,8 +29,9 @@ PMIの会員かどうかで費用が変わります。
 
 PMI会員にはここでは言及していないいくつか特典があります。自分は一般で、PMP資格更新+ACP資格試験なので、$150 + $495 で約7万円になります。
 
-## トレーニング受講費
+### トレーニング受講費
 
+PMPもACPも受験の条件に公認コースの受講が求められています。
 英語のコースは概ねリーズナブルです。私が受講したのは次の２コースです。
 
 |コース | 単位数（PDU） | 受講費
@@ -53,6 +54,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY4NDQ5NjUsLTU0MTg4OTYzOCw2Mz
-c5NDg2MDJdfQ==
+eyJoaXN0b3J5IjpbMzQxMDY4NjA1LC01NDE4ODk2MzgsNjM3OT
+Q4NjAyXX0=
 -->
