@@ -34,11 +34,11 @@
  - [ ] PMI-ACP :ticket:
  - [ ] [PMI-ACP Exam Prep](https://www.udemy.com/pmiacp_21pdus/learn/v4/t/practice/1023892/introduction) :tv: - 21 PDUs training course by Joseph Phillips on Udemy
  - [x] [The Agile principles](https://www.safaribooksonline.com/library/view/the-agile-principles/9781492036494/) :book: by Jennifer Greene; Andrew Stellman :star::star::star::star::star:
- - [ ] [*Head First  Agile*](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
+ - [ ] [Head First  Agile](https://www.safaribooksonline.com/library/view/head-first-agile/9781491944684/) :book: by Jennifer Greene; Andrew Stellman
  - [ ] [Succeeding with Agile](https://www.safaribooksonline.com/library/view/succeeding-with-agile/9780321660534/) :book: by Mike Cohn
  - [ ] [PMI-ACP Exam Guidance](https://www.pmi.org/certifications/types/agile-acp/exam-prep) :book: including *PMI-ACP Handbook*, *PMI-ACP Exam Content Outline* and *PMI-ACP Presentation*
- - [ ] [*PMBOK Guide*](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) :book: by PMI
- - [ ] [*Agile Practice Guide*](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) :book: by PMI
+ - [ ] [PMBOK Guide](https://www.safaribooksonline.com/library/view/a-guide-to/9781628253900/part01.xhtml) :book: by PMI
+ - [ ] [Agile Practice Guide](https://www.safaribooksonline.com/library/view/agile-practice-guide/9781628253993/) :book: by PMI
 
     
 ## Tools & Links
@@ -50,11 +50,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgyNzI3NjIsMTkyMTI3MTE3OCwtMT
-A1MjY1NDkwNiwxNTczNTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4
-ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxOD
-IzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLDg1MzAwNDUy
-MSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQwODUwOSwzNj
-E1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3NzY1LDE5ODY4MzI1
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE4NDEyMDM0MzAsLTE5MTgyNzI3NjIsMT
+kyMTI3MTE3OCwtMTA1MjY1NDkwNiwxNTczNTkyODkzLDc3NzU2
+ODk5NCw4MzM3Mjc4ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMT
+MwMjQzMDU0MiwxODIzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUw
+NzMyLDg1MzAwNDUyMSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMT
+c3MDQwODUwOSwzNjE1ODM5MzUsMTY4MTQxNTIzNCwxNjQ4MDk3
+NzY1XX0=
 -->
