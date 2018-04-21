@@ -42,7 +42,9 @@ PMPもACPも受験の条件に公認コースの受講が求められていま�
 
  ## 条件
 
-PMPをもっていたら、ACPの受験に必要な職務経験に関する条件をみたすことに
+- PMPをもっていたら、ACPの受験に必要な職務経験に関する条件をみたすことになります。
+- PMPの更新には３年サイクルで60 PDUｎ
+- ACPの受験に必要なトレーニングコースの21PDUは、PMP
  
 ## ZenHubでバーンダウン
 
@@ -55,6 +57,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMzNTIwMjAsNDQyNzc3MTExLC01ND
-E4ODk2MzgsNjM3OTQ4NjAyXX0=
+eyJoaXN0b3J5IjpbMTM3NDAwNjkyMyw0NDI3NzcxMTEsLTU0MT
+g4OTYzOCw2Mzc5NDg2MDJdfQ==
 -->
