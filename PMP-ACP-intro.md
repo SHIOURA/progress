@@ -38,11 +38,11 @@ PMPもACPも受験の条件に、**公認**コースを受講し必要な単位�
 | [PMI-ACP Exam Prep for PMBOK 6](https://www.udemy.com/pmiacp_21pdus/learn/v4/overview) <br> by Joseph Phillips on Udemy | 21 | ¥1,800
 | [Project Management for Business Professionals](https://www.canvas.net/courses/project-management-for-business-professionals-4) <br>by Peter von Stackelberg on Canvas | 45 | $99 
 
-英語のコースは概ねリーズナブルです。日本語のコースは大体数十万円します。また、PDUｓｙ
+英語のコースは概ねリーズナブルです。日本語のコースは大体数十万円します。また、PDU取得につながらない、公認されていないコースもあるので気をつけましょう。
 
  ## 条件
 
-- PMPをもっていたら、ACP受験に必要な職務経験に関する条件を満たせます。
+- PMP取得済みならば、ACP受験に必要な**職務経験**に関する条件を満たせます。PMP
 - PMPの更新には3年サイクルで60 PDU (CCR)の獲得が必要です。
 - ACPの受験に必要なトレーニングコースの21PDUは、PMP更新に必要なPDUとしてもカウントされます。ここが始めに書いた**一石二鳥**の理由です。
 - PMPの更新に必要な残りの 60 - 21 = 39 PDUの取得方法は複数あり、自習でも取得できます。
@@ -61,6 +61,6 @@ TODO
 - [PMI-ACP®認定 日本語版試験の提供開始](https://www.pmi-japan.org/news/pm_license/2018_03_27_pmi-acp_delay.php)
 - [PM Webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTU2Njc2NSwtMTI0NjU2MzcxOCw0ND
-I3NzcxMTEsLTU0MTg4OTYzOCw2Mzc5NDg2MDJdfQ==
+eyJoaXN0b3J5IjpbMTYyNjQ1OTE2LC0xMjQ2NTYzNzE4LDQ0Mj
+c3NzExMSwtNTQxODg5NjM4LDYzNzk0ODYwMl19
 -->
