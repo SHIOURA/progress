@@ -4,7 +4,7 @@
 
  - [ ] [Google Cloud Certified Professional Data Engineer](https://cloud.google.com/certification/data-engineer) :ticket:
 	 - [ ] [Data Engineering](https://qwiklabs.com/quests/25) :tv: Qwiklabs, 7h
- - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
+ - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
  - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by Aurélien Géron
  - [x] [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/Z23QYSJ94QTU) :tv:, a 5-course specialization by deeplearning.ai :star::star::star::star:
@@ -55,11 +55,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mzc2NTMsMTcxMTM5NDg5MSwtOTk2OD
-cyMjQyLC0xODQxMjAzNDMwLC0xOTE4MjcyNzYyLDE5MjEyNzEx
-NzgsLTEwNTI2NTQ5MDYsMTU3MzU5Mjg5Myw3Nzc1Njg5OTQsOD
-MzNzI3ODg4LDE3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1
-NDIsMTgyMzE2MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NT
-MwMDQ1MjEsMTc0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1
-MDldfQ==
+eyJoaXN0b3J5IjpbNjkzOTI1NTY5LDE3MTEzOTQ4OTEsLTk5Nj
+g3MjI0MiwtMTg0MTIwMzQzMCwtMTkxODI3Mjc2MiwxOTIxMjcx
+MTc4LC0xMDUyNjU0OTA2LDE1NzM1OTI4OTMsNzc3NTY4OTk0LD
+gzMzcyNzg4OCwxNzA5MjEyODY1LDQzNzg3Njc2OCwxMzAyNDMw
+NTQyLDE4MjMxNjAwNDEsODg5NDE0NDYsLTEzNTA1NTA3MzIsOD
+UzMDA0NTIxLDE3NDg1MzIzMzAsLTMyMDQ1OTYyLC0xNzcwNDA4
+NTA5XX0=
 -->
