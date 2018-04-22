@@ -19,7 +19,9 @@
 ## AWS
 
 ### [AWS Certification Roadmap](https://aws.amazon.com/certification/#roadmap)
+
 - [ ] AWS Certified Solutions Architect - Associate :ticket:
+	- [ ] [Solutions Architect - Professional](https://qwiklabs.com/quests/11) :tv:  Qwiklabs Quest,
 - [ ] AWS Certified DevOps Engineer - Professional :ticket:
 	- [ ] AWS Certified Developer - Associate :ticket:
 
@@ -51,11 +53,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Njg3MjI0MiwtMTg0MTIwMzQzMCwtMT
-kxODI3Mjc2MiwxOTIxMjcxMTc4LC0xMDUyNjU0OTA2LDE1NzM1
-OTI4OTMsNzc3NTY4OTk0LDgzMzcyNzg4OCwxNzA5MjEyODY1LD
-QzNzg3Njc2OCwxMzAyNDMwNTQyLDE4MjMxNjAwNDEsODg5NDE0
-NDYsLTEzNTA1NTA3MzIsODUzMDA0NTIxLDE3NDg1MzIzMzAsLT
-MyMDQ1OTYyLC0xNzcwNDA4NTA5LDM2MTU4MzkzNSwxNjgxNDE1
-MjM0XX0=
+eyJoaXN0b3J5IjpbLTMwNzc4MjA4MCwtOTk2ODcyMjQyLC0xOD
+QxMjAzNDMwLC0xOTE4MjcyNzYyLDE5MjEyNzExNzgsLTEwNTI2
+NTQ5MDYsMTU3MzU5Mjg5Myw3Nzc1Njg5OTQsODMzNzI3ODg4LD
+E3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2
+MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMT
+c0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgz
+OTM1XX0=
 -->
