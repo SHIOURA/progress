@@ -24,6 +24,7 @@
 	- [ ] [Solutions Architect - Professional](https://qwiklabs.com/quests/11) :tv:  Qwiklabs Quest, 3h
 - [ ] AWS Certified DevOps Engineer - Professional :ticket:
 	- [ ] AWS Certified Developer - Associate :ticket:
+	- [ ] [Developer - Associate](https://qwiklabs.com/quests/20) :tv:  Qwiklabs Quest, 4h
 
 ### [AWS Developer Professional Series on edX](https://www.edx.org/aws-developer-professional-series)
 
@@ -53,11 +54,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTM5NDg5MSwtOTk2ODcyMjQyLC0xOD
-QxMjAzNDMwLC0xOTE4MjcyNzYyLDE5MjEyNzExNzgsLTEwNTI2
-NTQ5MDYsMTU3MzU5Mjg5Myw3Nzc1Njg5OTQsODMzNzI3ODg4LD
-E3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2
-MDA0MSw4ODk0MTQ0NiwtMTM1MDU1MDczMiw4NTMwMDQ1MjEsMT
-c0ODUzMjMzMCwtMzIwNDU5NjIsLTE3NzA0MDg1MDksMzYxNTgz
-OTM1XX0=
+eyJoaXN0b3J5IjpbMTM1ODI5NTE2NywxNzExMzk0ODkxLC05OT
+Y4NzIyNDIsLTE4NDEyMDM0MzAsLTE5MTgyNzI3NjIsMTkyMTI3
+MTE3OCwtMTA1MjY1NDkwNiwxNTczNTkyODkzLDc3NzU2ODk5NC
+w4MzM3Mjc4ODgsMTcwOTIxMjg2NSw0Mzc4NzY3NjgsMTMwMjQz
+MDU0MiwxODIzMTYwMDQxLDg4OTQxNDQ2LC0xMzUwNTUwNzMyLD
+g1MzAwNDUyMSwxNzQ4NTMyMzMwLC0zMjA0NTk2MiwtMTc3MDQw
+ODUwOV19
 -->
