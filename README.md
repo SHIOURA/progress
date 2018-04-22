@@ -3,7 +3,7 @@
 ## Machine Learning
 
  - [ ] [Google Cloud Certified Professional Data Engineer](https://cloud.google.com/certification/data-engineer) :ticket:
-	 - [ ] [Data Engineering](https://qwiklabs.com/quests/25) :tv: Qwiklabs Quest, 7h 5m
+	 - [ ] [Data Engineering](https://qwiklabs.com/quests/25) :tv: Qwiklabs Quest, 7h
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
  - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by Aurélien Géron
@@ -21,7 +21,7 @@
 ### [AWS Certification Roadmap](https://aws.amazon.com/certification/#roadmap)
 
 - [ ] AWS Certified Solutions Architect - Associate :ticket:
-	- [ ] [Solutions Architect - Professional](https://qwiklabs.com/quests/11) :tv:  Qwiklabs Quest,
+	- [ ] [Solutions Architect - Professional](https://qwiklabs.com/quests/11) :tv:  Qwiklabs Quest, 3h
 - [ ] AWS Certified DevOps Engineer - Professional :ticket:
 	- [ ] AWS Certified Developer - Associate :ticket:
 
@@ -53,7 +53,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzc4MjA4MCwtOTk2ODcyMjQyLC0xOD
+eyJoaXN0b3J5IjpbMTcxMTM5NDg5MSwtOTk2ODcyMjQyLC0xOD
 QxMjAzNDMwLC0xOTE4MjcyNzYyLDE5MjEyNzExNzgsLTEwNTI2
 NTQ5MDYsMTU3MzU5Mjg5Myw3Nzc1Njg5OTQsODMzNzI3ODg4LD
 E3MDkyMTI4NjUsNDM3ODc2NzY4LDEzMDI0MzA1NDIsMTgyMzE2
