@@ -3,7 +3,7 @@
 ## Machine Learning
 
  - [ ] [Google Cloud Certified Professional Data Engineer](https://cloud.google.com/certification/data-engineer) :ticket:
-	 - [ ] [Data Engineering | Qwik
+	 - [ ] [Data Engineering](https://qwiklabs.com/quests/25) :tv: Qwiklabs Quest
  - [ ] [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) :tv:  Specialization on Coursera
  - [ ] [Data Science on the Google Cloud Platform](https://www.safaribooksonline.com/library/view/data-science-on/9781491974551/) :book: by Valliappa Lakshmanan
  - [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/) :book: by Aurélien Géron
@@ -51,7 +51,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYzNTkwMDEsLTE4NDEyMDM0MzAsLT
+eyJoaXN0b3J5IjpbLTE2MjI4OTg2MTksLTE4NDEyMDM0MzAsLT
 E5MTgyNzI3NjIsMTkyMTI3MTE3OCwtMTA1MjY1NDkwNiwxNTcz
 NTkyODkzLDc3NzU2ODk5NCw4MzM3Mjc4ODgsMTcwOTIxMjg2NS
 w0Mzc4NzY3NjgsMTMwMjQzMDU0MiwxODIzMTYwMDQxLDg4OTQx
